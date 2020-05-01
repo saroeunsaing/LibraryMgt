@@ -28,7 +28,7 @@ Partial Class Frm_Login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(395, 208)
+        Me.ClientSize = New System.Drawing.Size(395, 314)
         Me.Name = "Frm_Login"
         Me.Text = "Frm_Login"
         Me.ResumeLayout(False)
